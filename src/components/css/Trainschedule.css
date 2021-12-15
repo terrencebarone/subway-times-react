@@ -1,0 +1,12 @@
+.schedule-container{
+    background-color: #063970;
+}
+.schedule-caption{
+    background:orange;
+    font-size:25px;
+    font-weight: bold;
+    padding:5px 0px;
+}
+.table-header{
+    color:white;
+}

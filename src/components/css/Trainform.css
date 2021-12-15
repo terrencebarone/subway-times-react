@@ -1,0 +1,15 @@
+.form-container{
+    background-color: #063970;
+}
+.form-header{
+    background:orange;
+    padding:5px 10px;
+}
+.form-button{
+    background:orange;
+    font-size:20px;
+    padding:2px 5px;
+    border-radius: 5px;
+    border:none;
+    margin:5px 10px 15px 10px;
+}
