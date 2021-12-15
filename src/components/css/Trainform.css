@@ -13,3 +13,21 @@
     border:none;
     margin:5px 10px 15px 10px;
 }
+.input-container{
+    display:flex;
+    flex-direction: column;
+    margin:10px 10px;
+    
+}
+.input{
+    background: #1f4d7e;
+    color: white;
+    border: none;
+    padding:5px;
+    font-size:18px;
+}
+.input-label{
+    color:white;
+    margin:5px 0px;
+    font-size:20px;
+}

@@ -8,7 +8,9 @@ function Forminput(props){
                 type={props.text}
                 required
                 className="input"
+                value={props.inputText}
             />
+          
         </div>
     );
 }
